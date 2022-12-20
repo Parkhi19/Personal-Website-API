@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'parkhi-portfolio-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7CB087571D7A4FE8A82A6CDB21859A5A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB8E3F00DC4B4D8B93C367603D04AFFE }}
